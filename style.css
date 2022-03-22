@@ -1,0 +1,19 @@
+h1 {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: white;
+    background-color: black;
+}
+h2 {
+    color: white;
+    background-color: purple;
+    text-align: center;
+    font-style: italic;
+}
+#cloud {
+    color: aqua;
+}
+h3 {
+    background-color: cornflowerblue;
+    text-align: right;
+    text-decoration: underline;
+}
